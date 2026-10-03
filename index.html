@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ITM 特別教育 - Giáo dục đặc biệt</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇯🇵</text></svg>">
+</head>
+<body>
+  <!-- ===== ヘッダー ===== -->
+  <header class="app-header">
+    <div class="brand">
+      <span class="brand-icon">🇯🇵</span>
+      <div>
+        <h1 id="appTitle">Ứng dụng học tập ITM</h1>
+        <p class="brand-sub" id="appSubtitle">Giáo dục đặc biệt dành cho thực tập sinh kỹ năng</p>
+      </div>
+    </div>
+    <div class="header-right">
+      <button class="lang-btn" id="langToggle" title="Chuyển ngôn ngữ">
+        <span id="langLabel">🌐 VI / JP</span>
+      </button>
+      <nav class="tabs" id="tabs">
+        <button class="tab active" data-view="ebook">
+          <span class="tab-icon">📖</span>
+          <span class="tab-text" data-i18n="tabEbook">Sách điện tử</span>
+        </button>
+        <button class="tab" data-view="flash">
+          <span class="tab-icon">🃏</span>
+          <span class="tab-text" data-i18n="tabFlash">Thẻ ghi nhớ</span>
+        </button>
+        <button class="tab" data-view="drill">
+          <span class="tab-icon">✏️</span>
+          <span class="tab-text" data-i18n="tabDrill">Bài tập</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== 進捗バー ===== -->
+  <div class="progress-wrap">
+    <div class="progress-track">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+    <span class="progress-label" id="progressLabel">Tiến độ học tập 0%</span>
+  </div>
+
+  <!-- ===== メインコンテンツ ===== -->
+  <main id="main"></main>
+
+  <!-- ===== フッター ===== -->
+  <footer class="app-footer">
+    <p>© 2026 ITM外語センター — <span data-i18n="footerText">Ứng dụng học tập giáo dục đặc biệt</span></p>
+  </footer>
+
+  <!-- ===== スクリプト ===== -->
+  <script src="i18n.js"></script>
+  <script src="data/categories.js"></script>
+  <script src="data/chapters.js"></script>
+  <script src="data/flashcards.js"></script>
+  <script src="data/drills.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

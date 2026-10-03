@@ -1,0 +1,366 @@
+{
+  "filename": "37．仕事②（識別管理）.pptx",
+  "total_slides": 28,
+  "slides": [
+    {
+      "slide_number": 1,
+      "texts": [
+        "識別管理QUẢN LÝ PHÂN LOẠI",
+        "しきべつかんり",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "識別管理\n皆さん、日本の製品を使ったことがりますか。どうですか。「2－3人聞く」\nーーーーー\nそうですね。日本製品はベトナム市場で非常に人気があります。「日本の製品なら丈夫」だと思っているが多いです。\nどうして、日本の製品は多くの人に好まれていますか。理由は：\n・日本人は「信頼」「信用」という言葉を大事にする。\n・日本では生産工程において最も厳しい国だと言われています。\n・製品は消費者に届く前に品質安全や検査プロセスが厳しいです。\n・もっといい製品が製造できるように定期に改善を行います。\n\n本日、製造に関する知識　「識別管理」を勉強しましょう。\n・"
+    },
+    {
+      "slide_number": 2,
+      "texts": [
+        "Mục tiêu của bài.",
+        "Quản lý phân loại là gì? Tầm quan trọng.",
+        "Phương pháp quản lý phân loại.",
+        "Xác nhận mục tiêu.",
+        "Nội dung",
+        "bài giảng",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "この授業で勉強する内容です。\n1．授業の目標。\n2．識別管理の意味と重要性\n3．識別の種類や方法\n4．目標の確認"
+    },
+    {
+      "slide_number": 3,
+      "texts": [
+        "1",
+        "Mục tiêu",
+        "Hiểu được khái niệm quản lý phân loại.",
+        "Hiểu được tầm quan trọng của quản lý phân loại trong công xưởng.",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "1. 授業の目標です。\n・識別管理とは何かを知る。\n・工場での識別の必要性を理解する。"
+    },
+    {
+      "slide_number": 4,
+      "texts": [
+        "2",
+        "Quản lý phân loại là gì?",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "2．識別管理とは何ですか。\nまず識別管理別に関する質問に答えてください。"
+    },
+    {
+      "slide_number": 5,
+      "texts": [
+        "Hãy xem tranh dưới đây",
+        "Có điểm gì khác nhau?",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "写真を見てください。\n何が違いますか？\nそうですね。名札の色が違います。青色、黄色、赤色です。"
+    },
+    {
+      "slide_number": 6,
+      "texts": [
+        "●",
+        "あお",
+        "Nhận dạng vi phạm màu bằng màu thẻ",
+        "●",
+        "あか",
+        "Không vi phạm",
+        "Vi phạm 2 lần, hoặc lỗi nặng",
+        "Vi phạm 1 lần, hoặc lỗi nhẹ",
+        "●",
+        "きいろ",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "・青：違反なし\n・黄色：違反２回\n・赤：違反２回\n名札のマークの色を見るとすぐわかります。\n違反で色を管理します。誰が見ても違いがすぐ分かる\nこれがしきべつかんりです\n\n\n3番目のものが2回違反\n名札のマークを示したもの\n色別に分けて一目瞭然\nこれがしきべつ管理"
+    },
+    {
+      "slide_number": 7,
+      "texts": [
+        "●：Đi (進む)",
+        "●：Chú ý (注意)",
+        "●：Dừng (止まれ)",
+        "Tín hiệu đèn giao thông thể hiện điều gì?",
+        "Nhận dạng tín hiệu giao thông qua màu sắc",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "信号機は、青：進む　　黄色：注意　　赤：止まれ\n誰が見てもすぐ違いが判り、何をするのかがすぐわかります。\nこれがしきべつかんりです。"
+    },
+    {
+      "slide_number": 8,
+      "texts": [
+        "Phân loại là gì?",
+        "誰でも一目で違いが分かる",
+        "だれ　       ひと    め　       ちが   　　   　わ",
+        "Ai cũng thấy ngay sự khác biệt.",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "では識別とは？　\n誰でも一目で違いがわかる。\nこれがしきべつかんりです。"
+    },
+    {
+      "slide_number": 9,
+      "texts": [
+        "Không thực hiện được phân loại?",
+        "ITM外語センター",
+        "Xảy ra tai nạn trong khi sản xuất.",
+        "Sản xuất hàng sai quy cách -> sản xuất lại -> thiệt hại (tài chính, thời gian)",
+        "Hàng kém chất lượng đến tay khách hàng ->  công ty mất uy tín."
+      ],
+      "tables": [],
+      "notes": "工場での識別できないとどんな事が起きますか。\n１．作業中の事故が起きる　　　　　　　　　　　\n２．規格と違う製品ができる　⇒再生産　損害\n３．不良品が混じったまま出荷される　⇒　会社の信用がなくなる"
+    },
+    {
+      "slide_number": 10,
+      "texts": [
+        "ITM外語センター",
+        "Trong công xưởng, hàng lỗi do quản lý phân loại không tốt chiếm tỉ lệ cao."
+      ],
+      "tables": [],
+      "notes": "工場の品質管理\n工場の不良原因は識別不良が大半　　→　識別管理で不良を無くす\nどのように不良をなくすか。考えましょう。\nでは見てください。\n・このボールペンは誰のですか。（学生がよく使うボールペンを用意してもいい）　\n→分からないね。　→どうしたらわかりますか。　　→名前を表示します。\n・この2つの箱の中に何を入れたかわかりますか。\n→分からないね。　→どうしたらわかりますか。　　→色や表示で区別します。"
+    },
+    {
+      "slide_number": 11,
+      "texts": [
+        "ITM外語センター",
+        "PHÂN LOẠI",
+        "(màu sắc, dán nhãn)",
+        "Để không còn tình trạng hàng lỗi do phân loại chưa tốt.",
+        "PHÂN LOẠI",
+        "(dán nhãn)",
+        "HUNG",
+        "不良品",
+        "良品",
+        "PHÂN LOẠI"
+      ],
+      "tables": [],
+      "notes": "識別不十分よる不良品発生を避ける\n\n色々な方法があるので、紹介します。\n工場により、識別方法がが違います。\n働く場所の識別を守りましょう。"
+    },
+    {
+      "slide_number": 12,
+      "texts": [
+        "3",
+        "Phương pháp quản lý phân loại trong công xưởng",
+        "ITM外語センター"
+      ],
+      "tables": [],
+      "notes": "3．工場における識別管理方法"
+    },
+    {
+      "slide_number": 13,
+      "texts": [
+        "ITM外語センター",
+        "Rác nhựa",
+        "Rác cháy được",
+        "Rác khác",
+        "Rác chai,",
+        "lọ nhựa"
+      ],
+      "tables": [],
+      "notes": "中が見える容器の場合\n見える容器に入れる\n見てわかる"
+    },
+    {
+      "slide_number": 14,
+      "texts": [
+        "ITM外語センター",
+        "Phân loại bằng dán nhãn.",
+        "Rác nhựa",
+        "Rác cháy được",
+        "Rác khác",
+        "Rác chai,",
+        "lọ nhựa",
+        "Hạt nêm",
+        "Muối",
+        "Đường",
+        "Tiêu",
+        "Trường hợp không nhìn thấy bên trong."
+      ],
+      "tables": [],
+      "notes": "中が見えない容器の場合\n例：砂糖、塩、調味料…の容器\n->表示で識別する"
+    },
+    {
+      "slide_number": 15,
+      "texts": [
+        "ITM外語センター",
+        "Rác nhựa",
+        "Rác cháy được",
+        "Rác khác",
+        "Rác chai,",
+        "lọ nhựa",
+        "Trường hợp không nhìn thấy bên trong.",
+        "Phân loại bằng dán nhãn."
+      ],
+      "tables": [],
+      "notes": "ゴミ箱も同じ"
+    },
+    {
+      "slide_number": 16,
+      "texts": [
+        "Các phương pháp phân loại",
+        "ITM外語センター",
+        "Phân loại bằng màu sắc.",
+        "Phân loại bằng vị trí.",
+        "Phân loại bằng dán nhãn.",
+        "Kết hợp nhiều phương pháp để dễ phân biệt:",
+        "màu sắc + dán nhãn + vị trí"
+      ],
+      "tables": [],
+      "notes": "識別の種類や方法\n1．色で識別\n2．表示で識別\n3．置き場で識別\n\nひとつだけの方法でなく　複数の方法で識別します。"
+    },
+    {
+      "slide_number": 17,
+      "texts": [
+        "ITM外語センター",
+        "Nguyên",
+        "liệu  A",
+        "Nguyên",
+        "liệu  B",
+        "Nguyên",
+        "liệu  C",
+        "Nguyên",
+        "liệu  D",
+        "1. Phân loại bằng màu sắc."
+      ],
+      "tables": [],
+      "notes": "1. 色で識別する\n・見ただけではわからないもの（形が同じ）、材質が違うもの\n\n特に部品にはひとつひとつにラベル表示するのが難しいので、色を付けて識別している"
+    },
+    {
+      "slide_number": 18,
+      "texts": [
+        "ITM外語センター",
+        "Hàng đạt tiêu chuẩn",
+        "Hàng lỗi",
+        "良品",
+        "不良品",
+        "2. Phân loại bằng màu sắc và dán nhãn"
+      ],
+      "tables": [],
+      "notes": "２．色と表示で識別する　　　箱を色分けした上で、ラベル表示して分ける\n\n良品／不良品\n例）加工現場または検査で出た不良は必ず不良品と表示した赤箱に入れて\n→誰でも不良品とわかるようにします。\n注意：日本の工場では全て不良品は赤箱や赤表示"
+    },
+    {
+      "slide_number": 19,
+      "texts": [
+        "検査前",
+        "ITM外語センター",
+        "検査済",
+        "Chưa kiểm tra",
+        "Đã kiểm tra",
+        "Hàng lỗi",
+        "不良品",
+        "2. Phân loại bằng màu sắc và dán nhãn"
+      ],
+      "tables": [],
+      "notes": "２．色と表示で識別する　　　箱を色分けした上で、ラベル表示して分ける\n\n検査前　検査済み"
+    },
+    {
+      "slide_number": 20,
+      "texts": [
+        "ITM外語センター",
+        "Chưa gia công",
+        "Gia công",
+        "Đã gia công",
+        "3. Phân loại bằng màu sắc và dán nhãn và vị trí"
+      ],
+      "tables": [],
+      "notes": "3.　色、表示、場所で識別する\n同じように、加工現場でも加工前と加工後をはっきり区分します。\n①棚に加工前と加工後を分けて表示します。\n② 部品箱に加工前と後を表示し色をわけます\nこれにより、加工していないという不良を防ぎます。"
+    },
+    {
+      "slide_number": 21,
+      "texts": [
+        "材質A",
+        "材質B",
+        "材質C",
+        "材質D",
+        "ITM外語センター",
+        "3. Phân loại bằng màu sắc + dán nhãn + vị trí"
+      ],
+      "tables": [],
+      "notes": "3. 表示と置き場で識別：\n置き場を決めて表示されている\n　　標識をよく見て、その通りに置く、持ってくる、片付ける　違うものを混ぜない"
+    },
+    {
+      "slide_number": 22,
+      "texts": [
+        "ITM外語センター",
+        "Trong cuộc sống.",
+        "Trong công việc.",
+        "Trao đổi ý kiến về phân loại"
+      ],
+      "tables": [],
+      "notes": "物の流れで、どんな識別がありますか。\nーーーーーーーー\n先生が学生の答えを板書する"
+    },
+    {
+      "slide_number": 23,
+      "texts": [
+        "ITM外語センター",
+        "QL NGUYÊN VẬT LIỆU",
+        "QL SẢN XUẤT",
+        "QL XUẤT HÀNG"
+      ],
+      "tables": [],
+      "notes": "これは物の流れです。\n　　入荷→検査→在庫（部品）→出庫→加工・組み立て→梱包（製品）→出荷\nVD: ở khâu QL nguyên vật liệu có quản lý nguyên liệu (ngày giờ nhập, chất liệu…)\nở khâu QL sản xuất quản lý quy trình sản xuất\nỞ khâu QL xuất hàng có quản lý ngày giờ sản xuất sản phẩm, mã sản phẩm…\n\n→みんなさんは生活や仕事でどんな識別がありますか。学生に聞く（3分考えさせる）"
+    },
+    {
+      "slide_number": 24,
+      "texts": [
+        "ITM外語センター",
+        "Lưu ý phân loại",
+        "Tuân thủ quy tắc phân loại.",
+        "Xác nhận kĩ sản phẩm phải phân loại.",
+        "Không làm trộn lẫn sản phẩm."
+      ],
+      "tables": [],
+      "notes": "大切なこと！\n1. 識別を守ってください！！\n2. 識別されたものをよく確認する\n3. 混同、混入しない\n\nどんな仕事でも、材料や道具の分類をします。\n　それを理解するのは大切"
+    },
+    {
+      "slide_number": 25,
+      "texts": [
+        "ITM外語センター",
+        "Thực hiện tốt việc phân loại",
+        "Giảm tai nạn trong khi sản xuất.",
+        "Luôn sản xuất hàng đúng quy cách",
+        "Loại bỏ việc hàng kém chất lượng đến tay khách hàng ->  uy tín công ty được duy trì.",
+        "Công ty tăng lợi nhuận -> TTS cũng được hưởng lợi."
+      ],
+      "tables": [],
+      "notes": "職場での識別を守ったら\n１．作業中の事故が減る　　　　　　　　　\n２．いつも規格通りの製品ができる\n３．不良品を取り除き、製品の品質を確保できる\n\n会社にとって利益　⇒　実習生にも影響"
+    },
+    {
+      "slide_number": 26,
+      "texts": [
+        "ITM外語センター",
+        "Tổng kết",
+        "Phân loại không phải là việc khó. (giống việc thực hiện 5S).",
+        "Thực hiện phân loại cần thiết trong cuộc sống hàng ngày (phân biệt lọ muối với đường).",
+        "Thực hiện tốt cuộc sống, công việc suôn sẻ hơn."
+      ],
+      "tables": [],
+      "notes": "まとめ：\n1.識別難しいことではない　５Sと同じ\n2. 生活でも必要な考え方（塩と砂糖）\n3. この考え方が身についてら、生活や仕事がうまくいく"
+    },
+    {
+      "slide_number": 27,
+      "texts": [
+        "4",
+        "Xác nhận mục tiêu.",
+        "ITM外語センター",
+        "Hiểu được khái niệm quản lý phân loại.",
+        "Hiểu được tầm quan trọng của phân loại quản lý trong công xưởng."
+      ],
+      "tables": [],
+      "notes": "4．目標の確認\n・識別管理とは何かを知る。\n・工場での識別の必要性を理解する。"
+    },
+    {
+      "slide_number": 28,
+      "texts": [
+        "ITM外語センター",
+        "Thực hiện seiriseiton xung quanh mình",
+        "Thực hiện phân loại",
+        "Lập kế hoạch cải tiến"
+      ],
+      "tables": [],
+      "notes": "識別の活用をしましょう。\n・自分の周りの整理、整頓\n・改善に役立てましょう‼"
+    }
+  ]
+}
